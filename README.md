@@ -9,13 +9,12 @@
 # Tecnologias 
   -.NET \
   -Windows Forms \
-  -C# \
+  -C# 
 
 # Integrantes
-
   -Gabriel Dias Menezes, RM 555019 \
   -Hellen Marinho Cordeiro, RM 558841 \
   -Heloisa Alves de Mesquita, 559145 \
   -Júlia Soares Farias dos Santos, 554609 \
-  -Sofia Domingues Gonçalves, 554920 \
+  -Sofia Domingues Gonçalves, 554920 
 
