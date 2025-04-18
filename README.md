@@ -2,7 +2,7 @@
   Esta é uma aplicação de calculadora semi-científica desenvolvida em .NET, que oferece funcionalidades de uma calculadora básica semi-científica.
 
 # Funcionalidades
-  -Operações básicas: adição, subtração, multiplicação e divisão; \\
+  -Operações básicas: adição, subtração, multiplicação e divisão; \
   -Operações científicas: Potência e raiz quadrada; \
   -Interface amigável e intuitiva.
 
