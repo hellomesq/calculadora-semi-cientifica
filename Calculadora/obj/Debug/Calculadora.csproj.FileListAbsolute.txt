@@ -1,0 +1,10 @@
+C:\Users\Dell\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\one drive\c#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Dell\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\one drive\c#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Dell\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\one drive\c#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Dell\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\one drive\c#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\one drive\c#\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Dell\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\one drive\c#\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Dell\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\one drive\c#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\one drive\c#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\one drive\c#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Dell\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\one drive\c#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
